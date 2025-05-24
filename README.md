@@ -14,5 +14,5 @@ Early detection of pneumonia is crucial. We use a robust object detection model 
 
 ## 📊 Results
 Include charts or predictions:
-![Metrics](Result Images)
+![Metrics]([Result Images](https://github.com/Rakesh-005/Pneumonia_detection_YOLOv8/tree/98ce43a48c75f0e7893a77656cc2ac6bae01e8ef/Model%20Metrics))
 
