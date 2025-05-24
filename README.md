@@ -14,5 +14,5 @@ Early detection of pneumonia is crucial. We use a robust object detection model 
 
 ## 📊 Results
 Include charts or predictions:
-![Metrics](results/metrics.png)
+![Metrics](Result Images)
 
