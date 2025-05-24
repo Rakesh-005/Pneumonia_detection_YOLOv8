@@ -16,8 +16,3 @@ Early detection of pneumonia is crucial. We use a robust object detection model 
 Include charts or predictions:
 ![Metrics](results/metrics.png)
 
-## 🛠️ Setup
-```bash
-git clone https://github.com/yourusername/Pneumonia-Detection-YOLOv8.git
-cd Pneumonia-Detection-YOLOv8
-pip install -r requirements.txt
